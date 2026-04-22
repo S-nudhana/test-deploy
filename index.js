@@ -1,4 +1,4 @@
-import { getAllData, postData, deleteData, updateData } from "../indexDB/controllers.js";
+import { getAllData, postData, deleteData, updateData } from "./indexDB/controllers.js";
 
 //
 // Variables
